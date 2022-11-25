@@ -34,11 +34,11 @@ Filter system for DOM elements using pure JavaScript.
 Imagens da aplicação
 
 <img
-src=""
+src="https://github.com/Ciro-TI-System/FilterElementsDOM/blob/main/assets/Filter%20DOM%201.jpg"
 alt="Imagem da aplicação"/>
 
 <img
-src=""
+src="https://github.com/Ciro-TI-System/FilterElementsDOM/blob/main/assets/Filter%20DOM%202.jpg"
 alt="Imagem da aplicação"/>
 
 ## Links Úteis
